@@ -15,7 +15,7 @@ int main()
     }
     else
     {
-        printyf("Result: %d<%d",num1,num2);
+        printf("Result: %d<%d",num1,num2);
     }
     return 0;
 }
